@@ -1,0 +1,15 @@
+{
+  "name": "Kanyed",
+  "version": "0.0.0",
+  "main": "index.html",
+  "window": {
+    "frame": true,
+    "toolbar": true
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-nw-builder": "^2.0.0",
+    "nw-builder": "^2.0.2"
+  }
+}
